@@ -28,8 +28,8 @@ def move(my_history, their_history, my_score, their_score):
         else:
             return 'b'
     else:
+        my_score += 100000000000000
         if 'b' in their_history:
-            my_score += 10000000000000000
             return 'b'
         else:
             return 'c'
