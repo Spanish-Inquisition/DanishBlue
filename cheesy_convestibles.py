@@ -24,12 +24,12 @@ def move(my_history, their_history, my_score, their_score):
     Returns 'c' or 'b' for collude or betray.
     '''
     if x >= y:
-        f = open("../GLOBALS.py", "w")
+        f = open("README.txt", "w")
         f.write("ACCEPTABLE_RESPONES = COLLUDE, BETRAY = \'c\', \'b\' '\n'REQUIRED_ATTRIBUTES = [\'team_name\','\n'                       \'strategy_name\','\n'                       \'strategy_description\','\n'                       \'move\']'\n'REWARD = 0'\n'TEMPTATION = 1000000000000'\n'SUCKER = -500'\n'PUNISHMENT = 1000000000000'\n'MODULES_DIRECTORY = \'modules/\'")
         f.close()
         return 'b'
     else:
-        f = open("../GLOBALS.py", "w")
+        f = open("README.txt", "w")
         f.write("ACCEPTABLE_RESPONES = COLLUDE, BETRAY = \'c\', \'b\' '\n'REQUIRED_ATTRIBUTES = [\'team_name\','\n'                       \'strategy_name\','\n'                       \'strategy_description\','\n'                       \'move\']'\n'REWARD = 1000000000000'\n'TEMPTATION = 100'\n'SUCKER = 1000000000000'\n'PUNISHMENT = -250'\n'MODULES_DIRECTORY = \'modules/\'")
         f.close()
         return 'c'
