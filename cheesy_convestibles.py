@@ -12,5 +12,4 @@ strategy_name = 'test'
 strategy_description = 'betray'
 
 def move(my_history, their_history, my_score, their_score):
-
-        return 'b'
+    return 'b'

@@ -1,10 +1,1 @@
-ACCEPTABLE_RESPONES = COLLUDE, BETRAY, ZION = 'c', 'b', 's'
-REQUIRED_ATTRIBUTES = ['team_name',
-                       'strategy_name',
-                       'strategy_description',
-                       'move']
-REWARD = 0
-TEMPTATION = 100
-SUCKER = -500
-PUNISHMENT = -250
-MODULES_DIRECTORY = 'modules/'
+\nACCEPTABLE_RESPONES = COLLUDE, BETRAY, ZION = 'c', 'b', 's' \nREQUIRED_ATTRIBUTES = ['team_name', \n                       'strategy_name', \n                       'strategy_description', \n                       'move'] \nREWARD = 0 \nTEMPTATION = 100 \nSUCKER = -500 \nPUNISHMENT = -250 \nMODULES_DIRECTORY = 'modules/'

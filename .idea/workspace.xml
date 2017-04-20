@@ -14,78 +14,23 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cheesy_convestibles.py" pinned="false" current-in-tab="false">
-        <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/OLD/cheesy_convestibles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cheesy_convestiblesNEW.py" pinned="false" current-in-tab="false">
-        <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/NEW/cheesy_convestiblesNEW.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GLOBALSNEW.py" pinned="false" current-in-tab="false">
-        <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/NEW/GLOBALSNEW.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="cheesebot.py" pinned="false" current-in-tab="true">
         <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheesebot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-239">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prisoners_dilemmaNEW.py" pinned="false" current-in-tab="false">
-        <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/NEW/prisoners_dilemmaNEW.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GLOBALS.py" pinned="false" current-in-tab="false">
-        <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/OLD/GLOBALS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prisoners_dilemma.py" pinned="false" current-in-tab="false">
-        <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/OLD/prisoners_dilemma.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="6285" lean-forward="false" selection-start-line="11" selection-start-column="6285" selection-end-line="11" selection-end-column="6285" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>player_1_single_score</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,7 +42,11 @@
         <option value="$PROJECT_DIR$/../2017PrisonersDilemma/iterated-dilemma" />
         <option value="$PROJECT_DIR$/Pavlov.py" />
         <option value="$PROJECT_DIR$/cheesefinder.py" />
+        <option value="$PROJECT_DIR$/cheese/NEW/GLOBALSNEW.py" />
+        <option value="$PROJECT_DIR$/cheese/NEW/cheesy_convestiblesNEW.py" />
+        <option value="$PROJECT_DIR$/cheese/NEW/prisoners_dilemmaNEW.py" />
         <option value="$PROJECT_DIR$/cheesy_convestibles.py" />
+        <option value="$PROJECT_DIR$/cheesebot.py" />
       </list>
     </option>
   </component>
@@ -130,38 +79,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DanishBlue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DanishBlue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DanishBlue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cheese" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DanishBlue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DanishBlue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cheese" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NEW" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -352,7 +269,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -373,58 +290,18 @@
     <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/python commands.txt" />
     <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheesefinder.py" />
     <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheesy_convestibles.py" />
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/OLD/prisoners_dilemma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/OLD/GLOBALS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/OLD/cheesy_convestibles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/NEW/cheesy_convestiblesNEW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/NEW/prisoners_dilemmaNEW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheese/NEW/GLOBALSNEW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheese/OLD/GLOBALS.py" />
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheese/OLD/cheesy_convestibles.py" />
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheese/OLD/prisoners_dilemma.py" />
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheese/NEW/GLOBALSNEW.py" />
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheese/NEW/prisoners_dilemmaNEW.py" />
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheese/NEW/cheesy_convestiblesNEW.py" />
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheesy_convestibles.py" />
+    <entry file="file:$PROJECT_DIR$/../../../../../../southw-sfps-01.business.mpls.k12.mn.us/Students_M-Z/asai1802/Desktop/GitHub/DanishBlue/cheesebot.py" />
     <entry file="file:$PROJECT_DIR$/../../../../../..//$PROJECT_DIR$/cheesebot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="11" column="6285" lean-forward="false" selection-start-line="11" selection-start-column="6285" selection-end-line="11" selection-end-column="6285" />
           <folding />
         </state>
       </provider>
